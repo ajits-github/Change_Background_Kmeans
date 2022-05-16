@@ -4,7 +4,7 @@ Changing the Green background of an image using the K means method.
 **Features**:</br>
 * Making use of percentage of dominant color.
 * Working better than some other color spaces like hsv and hence no need to convert to other color spaces.
-* Allows you to give different number of clusters and different image sizes for multiple folders.
+* Allows you to give different number of clusters and different image sizes for different folders.
 * Allows you to give multiple folders (contained in one parent folder) or just one folder or just one image to be converted with desired background image.
 
 **Steps to reproduce:**</br>
